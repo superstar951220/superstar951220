@@ -4,7 +4,7 @@
 <p><img align = 'center' src='https://github.com/superstar951220/superstar951220/assets/140625296/a85833ee-80dd-44f9-aaaf-e4b2ec0be71d'></img></p>
 <p>
 
-I am a solution-oriented full-stack developer in both frontend and backend with 7+ years of experience and a lifelong learner with a professional background in Information Technology and coding. 
+I am a solution-oriented full-stack developer in both frontend and backend with 5+ years of experience and a lifelong learner with a professional background in Information Technology and coding. 
 
 I enjoy development because of the satisfaction I get by overcoming challenges.
 
