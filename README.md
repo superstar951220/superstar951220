@@ -4,11 +4,9 @@
 <p><img align = 'center' src='https://github.com/superstar951220/superstar951220/assets/140625296/a85833ee-80dd-44f9-aaaf-e4b2ec0be71d'></img></p>
 <p>
 
-I am a solution-oriented full-stack developer in both frontend and backend with 9+ years of experience and a lifelong learner with a professional background in Information Technology and coding. 
-
-I enjoy development because of the satisfaction I get by overcoming challenges.
-
-I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
+Semi Senior Front-End Developer with a solid 7-year track record in developing and coordinating web-based software for
+Architecture Engineering and Construction (AEC) Industry. Proficient in JavaScript, PHP, React, Angular, Laravel and Node.js.
+Renowned for leading cross-functional teams, delivering high client satisfaction, and efficient project management.
 </p>
 
 <br><h2>Languages</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, JSON, HTML5, CSS3, ES6, PHP, NodeJS, 
