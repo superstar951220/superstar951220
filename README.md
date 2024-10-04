@@ -4,9 +4,11 @@
 <!-- <p><img align = 'center' src='https://github.com/superstar951220/superstar951220/assets/140625296/a85833ee-80dd-44f9-aaaf-e4b2ec0be71d'></img></p> -->
 <p>
 
-Semi Senior Software Engineer with a solid 7-year track record in developing and coordinating web-based software for Architecture Engineering and Construction (AEC) Industry. 
-Proficient in JavaScript, PHP, React, Angular, Laravel and Node.js.
-Renowned for leading cross-functional teams, delivering high client satisfaction, and efficient project management.
+I'm a passionate software developer with a strong focus on web development. My journey into the tech world began with my first role, where I quickly
+learned the ins and outs of Python, Django, and React to build intuitive and reliable software solutions. Since then, I've grown into a versatile developer,
+leading projects that not only meet business needs but also enhance user experiences. I love tackling complex problems, whether it's creating sleek UIs
+or securing data in the backend.
+
 </p>
 
 <br><h2>Languages</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, JSON, HTML5, CSS3, ES6, PHP, NodeJS, 
