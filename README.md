@@ -1,7 +1,7 @@
 <h3 align='center'>
   Software Engineer
 </h3>
-<p><img align = 'center' src='https://github.com/superstar951220/superstar951220/assets/140625296/a85833ee-80dd-44f9-aaaf-e4b2ec0be71d'></img></p>
+<!-- <p><img align = 'center' src='https://github.com/superstar951220/superstar951220/assets/140625296/a85833ee-80dd-44f9-aaaf-e4b2ec0be71d'></img></p> -->
 <p>
 
 Semi Senior Software Engineer with a solid 7-year track record in developing and coordinating web-based software for Architecture Engineering and Construction (AEC) Industry. 
