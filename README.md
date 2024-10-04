@@ -1,5 +1,5 @@
 <h3 align='center'>
-  FullStack Web Engineer 
+  Software Engineer
 </h3>
 <p><img align = 'center' src='https://github.com/superstar951220/superstar951220/assets/140625296/a85833ee-80dd-44f9-aaaf-e4b2ec0be71d'></img></p>
 <p>
