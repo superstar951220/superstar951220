@@ -11,8 +11,8 @@ or securing data in the backend.
 
 </p>
 
-<br><h2>Languages</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, JSON, HTML5, CSS3, ES6, PHP, NodeJS, 
-<br><h2>Libraries/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tailwind CSS, SASS/Less, Bootstrap, Material UI, jQuery, ReactJS, Redux, Next.js, React-Native,  Nuxt.js, Angular, ExpressJS, Nest.js, Laravel, CodeIgniter,
+<br><h2>Expertise</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript, Python, React, Angular, Express, Django, C#, PyTorch, TensorFlow,
+<br><h2>Familiar/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP, Laravel, TypeScript, React Native, Machine Learning
 <br><h2>Database</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, SQLite, MongoDB,  Redis
 <br><h2>Devops</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GCP, GitHub, GitLab, AWS, Docker, Grafana
 <p>
