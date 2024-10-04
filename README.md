@@ -12,7 +12,7 @@ or securing data in the backend.
 </p>
 
 <br><h2>Expertise</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript, Python, NodeJS, React, Angular, Express, Django, C#, PyTorch, TensorFlow,
-<br><h2>Familiar/Frameworks/CMS</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP, Laravel, TypeScript, React Native, Machine Learning
+<br><h2>Familiar</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP, Laravel, TypeScript, React Native, Machine Learning
 <br><h2>Database</h2><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, PostgreSQL, SQLite, MongoDB,  Redis
 <br><h2>Devops</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GCP, GitHub, GitLab, AWS, Docker, Grafana
 <p>
